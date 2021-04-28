@@ -1,2 +1,2 @@
-# jogo_qual_o_sinal
-Jogo Qual o Sinal?
+# jogo_operando_numeros
+Jogo Operando Números
